@@ -4,7 +4,7 @@ Este índice organiza o estado verificado e o próximo trabalho de cada projeto.
 
 | Prioridade | Projeto | Estado verificado | Próxima ação |
 | --- | --- | --- | --- |
-| 1 | SEMPER BI — privado | Candidato de recuperação compilado; 599 testes unitários e 178 testes focados de permissões aprovados localmente e no GitHub, com sobreposição entre suítes | [Revisar candidato #1](https://github.com/HugoMota-IMD/SEMPER-BI-LOCAL-/pull/1) e [validar fonte oficial, banco isolado e perfis](https://github.com/HugoMota-IMD/SEMPER-BI-LOCAL-/issues/2) |
+| 1 | SEMPER BI — privado | Recuperação local validada: compilação, 599 testes unitários, banco reconstruído, restauração conferida e sete perfis com autenticação e isolamento aprovados | [Revisar candidato #1](https://github.com/HugoMota-IMD/SEMPER-BI-LOCAL-/pull/1) e [concluir reconciliação com a fonte oficial](https://github.com/HugoMota-IMD/SEMPER-BI-LOCAL-/issues/2) |
 | 2 | [Organiza](https://github.com/HugoMota-IMD/SISTEMA-DE-ORGANIZA-O) | Código importado; testes locais e verificação automática aprovados | [Homologar dispositivos e rotinas financeiras](https://github.com/HugoMota-IMD/SISTEMA-DE-ORGANIZA-O/issues/1) |
 | 3 | Site SEMPER — privado | Código importado; compilação local e verificação automática aprovadas | [Validar formulários, administração e atendimento em ambiente de teste](https://github.com/HugoMota-IMD/SEMPER-BI-SITE/issues/1) |
 | 4 | [NaGo Edit](https://github.com/HugoMota-IMD/SITE-AFILIADO-NaGoEdit) | Código estático importado; sintaxe e recursos locais conferidos; verificação automática aprovada | [Revisar conteúdo comercial e preparar publicação definitiva](https://github.com/HugoMota-IMD/SITE-AFILIADO-NaGoEdit/issues/1) |
@@ -28,4 +28,4 @@ A recuperação do SEMPER BI foi mantida fora da branch principal para permitir 
 
 - [SEMPER BI: instalação, tipos, compilação, permissões e suíte unitária aprovados na revisão de recuperação](https://github.com/HugoMota-IMD/SEMPER-BI-LOCAL-/actions/runs/41679390458).
 
-O SEMPER BI permanece em rascunho até a validação de banco, perfis e reconciliação com a fonte oficial; a aprovação das verificações não representa aceite de produção.
+O banco e os sete perfis do SEMPER BI foram validados em ambiente local isolado. A recuperação permanece em rascunho até reconciliar as diferenças com a fonte de origem, confirmar a versão efetivamente publicada e concluir o aceite operacional.
