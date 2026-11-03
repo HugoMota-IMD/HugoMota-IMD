@@ -8,7 +8,7 @@ Meu portfólio reúne iniciativas em diferentes estágios, da definição de req
 
 | Projeto | Foco | Estado verificado |
 | --- | --- | --- |
-| **SEMPER BI — privado** | Gestão e inteligência de negócios | Candidato de recuperação em revisão, com compilação e 599 testes unitários aprovados localmente |
+| **SEMPER BI — privado** | Gestão e inteligência de negócios | Recuperação local validada: compilação, testes, banco, restauração e sete perfis; reconciliação oficial pendente |
 | [Organiza](https://github.com/HugoMota-IMD/SISTEMA-DE-ORGANIZA-O) | Organização financeira pessoal e familiar | Código importado e testes aprovados; homologação adicional pendente |
 | [NaGo Edit](https://github.com/HugoMota-IMD/SITE-AFILIADO-NaGoEdit) | Conteúdo editorial e afiliados | Código estático importado e verificação automática aprovada; publicação e revisão comercial pendentes |
 
@@ -21,7 +21,7 @@ Meu portfólio reúne iniciativas em diferentes estágios, da definição de req
 
 [Acompanhar prioridades e tarefas dos projetos](https://github.com/HugoMota-IMD/HugoMota-IMD/blob/main/ROADMAP.md).
 
-As alterações passam por verificações automáticas no GitHub. A recuperação do SEMPER BI permanece em revisão separada, com procedência dos arquivos registrada, até a validação com banco isolado e a reconciliação com a fonte oficial.
+As alterações passam por verificações automáticas no GitHub. A recuperação do SEMPER BI permanece em revisão separada, com procedência dos arquivos registrada, com banco e sete perfis validados em ambiente isolado. A reconciliação com a fonte oficial e o aceite de produção permanecem pendentes.
 
 ## Tecnologias presentes nos projetos
 
