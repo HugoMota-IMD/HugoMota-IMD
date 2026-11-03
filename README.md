@@ -2,29 +2,31 @@
 
 Projetos de gestão, inteligência de negócios e produtos digitais.
 
-Meu portfólio reúne iniciativas em diferentes estágios, da definição de requisitos à implementação local. Cada projeto mantém sua própria documentação e seus próximos passos.
+Meu portfólio reúne iniciativas em diferentes estágios, da definição de requisitos à implementação e validação. Cada projeto mantém sua documentação, verificações e próximos passos.
 
 ## Projetos em destaque
 
-| Projeto | Foco | Situação documentada |
+| Projeto | Foco | Estado verificado |
 | --- | --- | --- |
-| [SEMPER BI](https://github.com/HugoMota-IMD/SEMPER-BI-LOCAL-) | Gestão e inteligência de negócios | Importação pendente: recuperar a fonte completa atual |
-| [Organiza](https://github.com/HugoMota-IMD/SISTEMA-DE-ORGANIZA-O) | Organização financeira pessoal e familiar | Código importado; testes locais aprovados; homologação adicional pendente |
-| [NaGo Edit](https://github.com/HugoMota-IMD/SITE-AFILIADO-NaGoEdit) | Conteúdo editorial e afiliados | Código estático importado; hospedagem e revisão comercial pendentes |
+| **SEMPER BI — privado** | Gestão e inteligência de negócios | Candidato de recuperação em revisão, com compilação e 599 testes unitários aprovados localmente |
+| [Organiza](https://github.com/HugoMota-IMD/SISTEMA-DE-ORGANIZA-O) | Organização financeira pessoal e familiar | Código importado e testes aprovados; homologação adicional pendente |
+| [NaGo Edit](https://github.com/HugoMota-IMD/SITE-AFILIADO-NaGoEdit) | Conteúdo editorial e afiliados | Código estático importado e verificação automática aprovada; publicação e revisão comercial pendentes |
 
 ## Outras iniciativas
 
-- **Sistema de Óticas:** definição de requisitos e escopo, organizado em repositório privado.
-- **Site SEMPER:** código importado em repositório privado; compilação Next.js aprovada.
+- **Site SEMPER:** código em repositório privado, compilação local aprovada e verificação automática configurada. Integrações ainda exigem homologação.
+- **Sistema de Óticas:** definição de requisitos e escopo, sem aplicação implementada identificada.
+
+## Continuidade
+
+[Acompanhar prioridades e tarefas dos projetos](https://github.com/HugoMota-IMD/HugoMota-IMD/blob/main/ROADMAP.md).
+
+As alterações passam por verificações automáticas no GitHub. A recuperação do SEMPER BI permanece em revisão separada, com procedência dos arquivos registrada, até a validação com banco isolado e a reconciliação com a fonte oficial.
 
 ## Tecnologias presentes nos projetos
 
 Python · Django · React · TypeScript · Next.js · Supabase · SQLite · HTML · CSS · JavaScript
 
-## Como os projetos evoluem
-
-Definição de requisitos, implementação, validação dos fluxos e documentação do estado atual. As apresentações dos repositórios distinguem o trabalho local das entregas publicadas.
-
-Os códigos do Organiza, NaGo Edit e Site SEMPER foram importados após revisão dos arquivos destinados ao GitHub, sem bancos, backups ou credenciais locais. O SEMPER BI aguarda recuperação e validação da fonte completa atual. O Sistema de Óticas permanece em definição de escopo, sem aplicação implementada.
+Os códigos foram organizados sem bancos, backups ou credenciais locais. Publicação no GitHub, homologação e disponibilização das aplicações são etapas distintas.
 
 _Atualizado em 03/11/2026._
